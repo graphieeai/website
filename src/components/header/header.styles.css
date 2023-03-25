@@ -1,0 +1,35 @@
+.header {
+    position: absolute;
+    z-index: 2;
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.header a {
+    text-decoration: none;
+    color: black;
+}
+
+.head-left {
+    font-weight: 400;
+    padding: 0 2rem;
+}
+
+.head-mid ul {
+    display: flex;
+    list-style: none;
+}
+
+.head-mid li {
+    margin: 0 2rem;
+}
+
+.head-right {
+    background-color: black;
+    width: 10rem;
+    color: white;
+    padding: 1rem 2rem;
+}

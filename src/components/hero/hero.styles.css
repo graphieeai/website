@@ -1,0 +1,21 @@
+.hero-container {
+    display: flex;
+    align-items: center;
+}
+
+.gr-hero {
+    font-size: 10rem;
+    position: relative;
+    margin-left: -10rem;
+}
+
+.gr-hero span {
+    font-weight: 100;
+}
+
+.gr-hero-p {
+    float: right;
+    /* background-color: green; */
+    font-size: 1.4rem;
+    margin-top: -3rem;
+}

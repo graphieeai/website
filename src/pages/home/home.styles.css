@@ -1,0 +1,21 @@
+.page {
+    padding-top: 5rem;
+}
+
+.home-page {
+    background-color: #CCBF4D;
+    /* height: 55rem; */
+    width: 100%;
+    border-bottom: 2px solid black;
+}
+
+.home-content {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: 8rem 0;
+}
+
+.content-container {
+    width: 50rem;
+}
